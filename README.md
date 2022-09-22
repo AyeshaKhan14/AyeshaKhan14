@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="center">Inspiring Full Stack Development, I am a Computer Science graduate with a penchant for creating websites. I am passionate about enhancing user experience and maximizing user interface.</h3>
+<h3 align="center">Inspiring Full Stack Developer, I am a Computer Science graduate with a penchant for creating websites. I am passionate about enhancing user experience and maximizing user interface.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshakhan14&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshakhan14" /> </p>
 
