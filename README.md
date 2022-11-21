@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://ayeshakhan14.github.io/"/>Portfolio</a> 
 
-- 💬 Ask me about **CSS,Html,JS,React**
+- 💬 Ask me about **CSS,Html,JS,React,Redux**
 
 - 📫 How to reach me **ayeshatravels9@gmail.com**
 
