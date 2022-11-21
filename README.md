@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
 <p align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F79912&vCenter=true&width=500&lines=Hello%2CI'm++Ayesha+Khan;Frontend+Developer"/></p>
- <h3 align="center">Inspiring Full Stack Developer, I am a Computer Science graduate with a penchant for creating websites. I am passionate about enhancing user experience and maximizing user interface.</h3>
+ <h3 align="center">Inspiring Full Stack Developer, A Computer Science graduate with a penchant for creating websites, passionate about enhancing user experience and maximizing user interface.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshakhan14&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshakhan14" /> </p>
 
