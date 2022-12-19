@@ -32,4 +32,4 @@
 
 <!--   atitvity graph -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshakhan14&" alt="ayeshakhan14" /></p>
-<div><img  alt="Ayesha Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayeshakhan14&bg_color=0D1117&color=FFA500&line=FFA500&point=FFA500&hide_border=true"/></div>
+<div><img  alt="Ayesha Khan's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshakhan14&theme=gruvbox"/></div>
