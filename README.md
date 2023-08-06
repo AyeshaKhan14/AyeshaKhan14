@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayeshatravels9@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DAjYmP4cMlRcpkSr9sn8wS31za4Mec3b/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10FXUSWo7wEQ95gwPOqYgmQCXQ-Vlah3z/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
